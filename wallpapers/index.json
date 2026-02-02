@@ -57,42 +57,42 @@
 
    {
       "name": "Community wallpapers",
-      "icon": "https://raw.githack.com/Pyralys/datasets/9c937ea077311a843958c5b45da63da2088f458b/wallpapers/icons/Paps%20icon.png",
+      "icon": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/icons/Paps%20icon.jpg",
       "link": "https://papillon.bzh/",
       "images": [
          {
             "id": "Pyralys 1",
-            "url": "https://raw.githack.com/Pyralys/datasets/c0f2d36ea5a8bcdd8dcd68200cc7e667591e0fbf/wallpapers/Community%20wallpapers/Pyralys%201.png",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/community/Pyralys%201.jpg",
             "credit": "Pyralys"
          },
          {
             "id": "Pyralys 2",
-            "url": "https://raw.githack.com/Pyralys/datasets/c0f2d36ea5a8bcdd8dcd68200cc7e667591e0fbf/wallpapers/Community%20wallpapers/Pyralys%202.png",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/community/Pyralys%202.jpg",
             "credit": "Pyralys"
          },
          {
             "id": "Pyralys 3",
-            "url": "https://raw.githack.com/Pyralys/datasets/c0f2d36ea5a8bcdd8dcd68200cc7e667591e0fbf/wallpapers/Community%20wallpapers/Pyralys%203.png",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/community/Pyralys%203.jpg",
             "credit": "Pyralys"
          },
          {
             "id": "Pyralys 4",
-            "url": "https://raw.githack.com/Pyralys/datasets/c0f2d36ea5a8bcdd8dcd68200cc7e667591e0fbf/wallpapers/Community%20wallpapers/Pyralys%204.png",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/community/Pyralys%204.jpg",
             "credit": "Pyralys"
          },
          {
             "id": "Pyralys 5",
-            "url": "https://raw.githack.com/Pyralys/datasets/c0f2d36ea5a8bcdd8dcd68200cc7e667591e0fbf/wallpapers/Community%20wallpapers/Pyralys%205.png",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/community/Pyralys%205.jpg",
             "credit": "Pyralys"
          },
          {
             "id": "Pyralys 6",
-            "url": "https://raw.githack.com/Pyralys/datasets/c0f2d36ea5a8bcdd8dcd68200cc7e667591e0fbf/wallpapers/Community%20wallpapers/Pyralys%206.png",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/community/Pyralys%206.jpg",
             "credit": "Pyralys"
          },
          {
             "id": "Pyralys 7",
-            "url": "https://raw.githack.com/Pyralys/datasets/c0f2d36ea5a8bcdd8dcd68200cc7e667591e0fbf/wallpapers/Community%20wallpapers/Pyralys%207.png",
+            "url": "https://raw.githack.com/PapillonApp/datasets/main/wallpapers/images/community/Pyralys%207.jpg",
             "credit": "Pyralys"
          }
       ]
